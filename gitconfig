@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bouvartm@yahoo.fr
+	name = Marina Bouvart
