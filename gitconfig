@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = gh api bouvartm@yahoo.fr
-	name = marina bouvart
+	email = bouvartm@yahoo.fr
+	name = Marina Bouvart
